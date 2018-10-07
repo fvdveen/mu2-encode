@@ -4,7 +4,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.4.1 // indirect
 	github.com/andybalholm/cascadia v1.0.0 // indirect
 	github.com/bwmarrin/discordgo v0.18.0 // indirect
-	github.com/fvdveen/mu2-config v0.0.0-20181006161558-710744936f70
+	github.com/fvdveen/mu2-config v0.0.0-20181007111149-cc5f2f6032bd
 	github.com/fvdveen/mu2-proto v0.0.0-20181004164642-de82b520b6c4
 	github.com/fvdveen/mu2-search v0.0.0-20181006133757-c6044163f71e // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
